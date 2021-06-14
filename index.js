@@ -12,4 +12,8 @@ function increment() {
     document.getElementById("count-el").innerText = count; // "count-el" represents the argument of the function here
 }
 
+// 1. Create a function, save(), which logs out the count when it's called
+function save() {
+    console.log(count);
+}
 
