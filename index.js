@@ -2,6 +2,9 @@
 // Initialize the count as 0
 let count = 0;
 
+// Grab the save-el paragraph and store it in a variable called saveEl
+let saveEl = document.getElementById("save-el");
+
 // Listen for clicks on the increment button (The 'onclick' event listener in html)
 
 // Increment the count variable when the button is clicked (and log it out)
@@ -14,6 +17,12 @@ function increment() {
 
 // 1. Create a function, save(), which logs out the count when it's called
 function save() {
+    // 2. Create a variable that contains both the count and the dash separator, i.e. "12 - "
+    let disp = " " + count + " - ";
+    
+    // 3. Render the variable in the saveEl element using innerText
+    saveEl.innerText += disp;
+
     console.log(count);
 }
 
