@@ -37,6 +37,10 @@ button {
     background: darkgreen;
 }
 
+#reset-btn {
+    background: darkred;
+}
+
 #count-el {
     color: rgb(159, 130, 238);
 }
@@ -44,3 +48,4 @@ button {
 #save-el {
     color: rgb(75, 43, 165);
 }
+
