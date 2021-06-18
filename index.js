@@ -12,7 +12,7 @@ function increment() {
     count+=1;
     
     // change the count-el in the HTML to reflect the new count
-    document.getElementById("count-el").innerText = count; // "count-el" represents the argument of the function here
+    document.getElementById("count-el").textContent = count; // "count-el" represents the argument of the function here
 }
 
 // 1. Create a function, save(), which logs out the count when it's called
@@ -21,8 +21,13 @@ function save() {
     let disp = " " + count + " - ";
     
     // 3. Render the variable in the saveEl element using innerText
-    saveEl.innerText += disp;
+    saveEl.textContent += disp;
 
     console.log(count);
 }
 
+// Adding a reset() function to reset the count after a train has left the station, to count the passengers from 0 again
+function reset() {
+    count=0;
+    document.getElementById("count-el").textContent = count;
+}
