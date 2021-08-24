@@ -21,7 +21,6 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -57,7 +56,6 @@ These are the technologies that I used to build the Passenger Counter App:
 
 To get a local copy of the app, up and running on your system, follow these steps.
 
-  ```
 
 ### Installation
 
