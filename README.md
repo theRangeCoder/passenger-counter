@@ -66,7 +66,7 @@ To get a local copy of the app, up and running on your system, follow these step
    ```sh
    git clone https://github.com/theRangeCoder/passenger-counter.git
    ```
-3. Navigate to the directory
+3. Navigate into the directory
    ```sh
    cd passenger-counter
    ```
