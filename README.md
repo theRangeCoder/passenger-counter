@@ -94,7 +94,7 @@ The `RESET` button can be used to reset the number to 0, to enable a fresh count
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+The README template, used for this project, was distributed under the MIT License. See `LICENSE` for more information.
 
 
 
@@ -104,7 +104,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 #### Shuvadarshan Bhual
 * Drop me an [email](mailto:sbhual1998@gmail.com) 
 * Follow me on [Twitter](https://twitter.com/theRangeCoder)
-* Let us connect on [LinkedIn](www.linkedin.com/in/shuvadarshan-bhual)
+* Let us connect on [LinkedIn](https://www.linkedin.com/in/shuvadarshan-bhual)
 
 
 
