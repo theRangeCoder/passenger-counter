@@ -108,6 +108,7 @@ The README template, used for this project, was distributed under the MIT Licens
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
+* Inspiration and code resource credits: [Per Harald Borgen's JavaScript course](https://scrimba.com/learn/learnjavascript)
 * [Othneil Drew](https://www.othneildrew.com) for the [README template](https://github.com/othneildrew/Best-README-Template)
 * Background image by <a href="https://unsplash.com/@afs_snapshots?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Angel Santos</a> on <a href="https://unsplash.com/photos/-uN8tkM1JrM">Unsplash</a>
 
