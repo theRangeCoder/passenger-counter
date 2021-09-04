@@ -3,7 +3,8 @@
   <p align="center">
     The app to get you started on counting passengers in a subway!
     <br />
-    <a href="https://therangecoder.github.io/passenger-counter/"><strong>View Demo »</strong></a>
+    <a href="https://therangecoder.github.io/passenger-counter/" target="_blank"><strong>View Demo »</strong></a>
+    <br />
   </p>
 </p>
 
